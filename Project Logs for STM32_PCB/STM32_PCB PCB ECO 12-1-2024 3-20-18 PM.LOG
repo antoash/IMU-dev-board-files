@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=J2 Old Footprint=TC2030-FP New Footprint=TC2030-NL-FP
+Change Component Comment : Designator=J2 Old Comment=TC2030 New Comment=TC2030-NL
+Change component parameters: Designator = "J2" ("J2"); Footprint = "TC2030-FP"; UniqueID = "\ZDDJOWNQ" ("\ZDDJOWNQ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Tag-Connect"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "TC2030-NL-FP"; VariantName = "[No Variations]"

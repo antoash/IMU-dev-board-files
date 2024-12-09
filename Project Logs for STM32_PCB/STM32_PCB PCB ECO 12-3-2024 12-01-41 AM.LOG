@@ -1,0 +1,28 @@
+Added Component: Designator=U3(IS-QFN-24_V)
+Add component (AddParameter): Name = "Category"; Value = "Sensors,Transducers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/MPU-6050-InvenSense-datasheet-14421344.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 3.3, 05/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dynamic Catalog"; Value = "MPU-6000™Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Multifunction"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Featured Product"; Value = "MPU-60506-Axis,IntegratedI²CSolution"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "InvenSense"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.invensense.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "MPU-6000™Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "1428-1007-2
+MPU6050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Digital"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sensor Type"; Value = "MotionTracking"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "5,000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit PriceUSD"; Value = "Digital"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=+3V3 Pin=U3-8
+Added Pin To Net: NetName=GND Pin=U3-9
+Added Pin To Net: NetName=IMU_REGOUT Pin=U3-10
+Added Pin To Net: NetName=GND Pin=U3-11
+Added Pin To Net: NetName=IMU_INT Pin=U3-12
+Added Pin To Net: NetName=+3V3 Pin=U3-13
+Added Pin To Net: NetName=GND Pin=U3-18
+Added Pin To Net: NetName=IMU_CPOUT Pin=U3-20
+Added Pin To Net: NetName=IMU_SCL Pin=U3-23
+Added Pin To Net: NetName=IMU_SDA Pin=U3-24
+Added Pin To Net: NetName=GND Pin=U3-25
